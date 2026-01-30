@@ -1,0 +1,13 @@
+[project]
+name = "nginx-traefik-converter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "click>=8.0.0",
+    "jinja2>=3.0.0",
+    "pyyaml>=6.0",
+    "rich>=13.0.0",
+    "pline>=0.1.0",
+]
